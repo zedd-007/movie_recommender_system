@@ -1,0 +1,1 @@
+web: streamlit run Movie Recommender System.py
